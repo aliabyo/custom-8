@@ -37,7 +37,7 @@ class RunBot():
    
 
   room_id = "6605a0cac5b48ab1e8e53faf"
-  bot_token = "59a4789894ed924782ab50ea7090a5826d062e6a823003b18d44f189b1be59a4"
+  bot_token = "73a467ee0e18e690e0933d3858be03117a169def48c3668e38417a1b822cf769"
   bot_file = "main"
   bot_class = "MyBot"
 
